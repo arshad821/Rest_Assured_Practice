@@ -1,0 +1,33 @@
+{
+  "category" : "Super Hero Movies And TV Shows",
+  "acceptedfranchise" : [ "DC", "Marvel" ],
+  "genres" : [ "Action", "Adventure", "Dark", "Funny", "horror", "Heroic" ],
+  "movies" : [ {
+    "title" : "Batman:The Dark Knight",
+    "year" : 2008,
+    "cast" : [ "Christ Bale", "Heath Ledger" ]
+  }, {
+    "title" : "Justice League:Synder Cut",
+    "year" : 2021,
+    "cast" : [ "Henry Cavill", "Gal Gadot" ]
+  }, {
+    "title" : "The Avengers",
+    "year" : 2012,
+    "cast" : [ "Iron Man", "Peter Parker" ]
+  }, {
+    "title" : "Avengers:Age of Ultron",
+    "year" : 2015,
+    "cast" : [ "Robert Downey Jr", "Chris Evans" ]
+  } ],
+  "tvseries" : [ {
+    "title" : "Flash",
+    "year" : 2014
+  }, {
+    "title" : "Gotham",
+    "year" : 2014
+  } ],
+  "otherdetails" : {
+    "country" : "Only USA",
+    "language" : "English"
+  }
+}

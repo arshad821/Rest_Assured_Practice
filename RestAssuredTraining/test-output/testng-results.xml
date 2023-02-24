@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="1" passed="1" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2022-12-20T13:07:25 IST" name="Default suite" finished-at="2022-12-20T13:07:25 IST" duration-ms="578">
+    <groups>
+    </groups>
+    <test started-at="2022-12-20T13:07:25 IST" name="Default test" finished-at="2022-12-20T13:07:25 IST" duration-ms="578">
+      <class name="com.validatingjsonschema.HamcrestMatcherJsonSchemaVAlidation">
+        <test-method signature="hamcrestmatcherjsonschemavalidator()[pri:0, instance:com.validatingjsonschema.HamcrestMatcherJsonSchemaVAlidation@101952da]" started-at="2022-12-20T13:07:25 IST" name="hamcrestmatcherjsonschemavalidator" finished-at="2022-12-20T13:07:25 IST" duration-ms="537" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- hamcrestmatcherjsonschemavalidator -->
+      </class> <!-- com.validatingjsonschema.HamcrestMatcherJsonSchemaVAlidation -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
